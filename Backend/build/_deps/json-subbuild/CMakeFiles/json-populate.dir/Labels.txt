@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/json-populate
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule
