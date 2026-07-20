@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-inter: 'Inter', sans-serif;
+  --font-jbmono: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #0a0a0a;
+  color: #ededee;
+  height: 100%;
+  overscroll-behavior: none;
+}
+
+::selection {
+  background: #76b900;
+  color: #08110a;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111213;
+}
+::-webkit-scrollbar-thumb {
+  background: #232527;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #333;
+}
+
+@layer components {
+  .panel-title {
+    @apply flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-[0.13em] text-ink-low mb-3;
+  }
+  .panel-title::after {
+    content: '';
+    @apply flex-1 h-px bg-line;
+  }
+  .stat-chip {
+    @apply bg-bg-2 border border-line-soft rounded-[3px] px-[9px] py-2;
+  }
+  .btn {
+    @apply flex-1 px-2 py-[7px] text-[11px] font-semibold bg-bg-3 border border-line text-ink-mid rounded-[3px] cursor-pointer transition-colors duration-150 hover:border-[#3a3a3a] hover:text-ink-hi flex items-center justify-center gap-1.5;
+  }
+  .btn-primary {
+    @apply bg-gradient-to-b from-[#86CC00] to-gpu-green text-[#08110a] border-none font-bold hover:brightness-110 active:brightness-95;
+  }
+}
