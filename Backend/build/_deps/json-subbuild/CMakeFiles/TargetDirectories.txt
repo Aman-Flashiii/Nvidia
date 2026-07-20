@@ -1,3 +1,0 @@
-C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/json-populate.dir
-C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/edit_cache.dir
-C:/e/Parth/Nvidia/Backend nvidia/Backend nvidia/build/_deps/json-subbuild/CMakeFiles/rebuild_cache.dir
